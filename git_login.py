@@ -1,4 +1,5 @@
 py1 = 'hello!'
+py88 = 88
 py2 = 55
 py5 = 'sss'
 py3 = 'python
